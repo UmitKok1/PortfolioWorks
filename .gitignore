@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/__ExternalActors__/Maps/Map_0/0/ZI/L46WMLRSBCH06KYMPOZ00I.uasset
+*.uasset
